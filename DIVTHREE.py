@@ -5,4 +5,7 @@ for _ in range(int(input())):
     for i in a:
         s+=i
     ans=s//k
-    print(ans if ans<=d else d)
+    if ans<=d:
+        print(ans)
+    else:
+        print(d)
