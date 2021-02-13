@@ -1,1 +1,1 @@
-# January-Long-Challenge
+Long-Challenge
